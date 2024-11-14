@@ -1,0 +1,56 @@
+nav{
+    background-color: orange;
+    padding: 1rem;
+    text-align: center;
+  }
+nav a{
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+header {
+    background-color: orangered;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
+a:hover{
+    color: black;
+}
+
+h2{
+    font-weight: bold;
+    width: 75%;
+    margin-left: 100px;
+    padding-bottom: 20px;
+}
+
+.kecskesajt{
+    margin-bottom: 100px;
+    margin-top: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    width: 75%;
+    margin-left: 100px;
+}
+
+body{
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.also{
+    margin-bottom: 150px;
+}
