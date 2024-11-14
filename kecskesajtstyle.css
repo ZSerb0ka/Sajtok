@@ -48,9 +48,14 @@ p{
 
 body{
     font-size: xx-large;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: antiquewhite ;
 }
 
 .also{
     margin-bottom: 150px;
+}
+.kép{
+    width: 600px;
+    padding-bottom: 15%;
 }
